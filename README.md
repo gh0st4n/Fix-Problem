@@ -2,7 +2,9 @@
 notes for fixing my problem
 
 1. Grub-Rescue : [Here](Grub-Rescue.md)
+2. Wifi wlp0s20f3 Down : [Here](wifi-wlp0s20f3-down.md)
 
+---
 
 <div align="center">
 
